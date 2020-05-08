@@ -1,0 +1,27 @@
+.head-buttons a {
+    padding: 5px;
+    font-size: 12px;
+    border: 1px solid #427900;
+    color: #427900;
+    border-radius: 0px;
+}
+.greenColor{
+    color: #00FF00;
+}
+
+.doing{
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 0px 30px gray;
+}
+
+.line{
+    width: 50px;
+    background-color: green;
+}
+
+.footer {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    color: white;
